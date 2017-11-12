@@ -1717,7 +1717,7 @@ a { text-decoration: none; }
 
 .container--clients { justify-content: center; align-items: center; display: flex; }
 
-.clients__descr-wrap { width: 24%; align-self: start; }
+.clients__descr-wrap { width: 24%; }
 
 .clients__title { font-family: Playfair Display, sans-serif; color: #333333; font-size: 3rem; font-weight: 700; margin: 0 0 30px 0; }
 
